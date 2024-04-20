@@ -8,9 +8,7 @@ Khaled Samy<br>Data Scientist & Analyst<br>About Me<br>I am a passionate and res
 ![](https://github-readme-stats.vercel.app/api?username=Khalodddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khalodddd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalodddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=Khalodddd&label=Cookies%20&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Khalodddd&label=Cookies%20&color=10&icon=9&pretty=false" />
+
 </a>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khalodddd&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -20,5 +18,7 @@ Khaled Samy<br>Data Scientist & Analyst<br>About Me<br>I am a passionate and res
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khalodddd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Khalodddd&label=Cookies%20&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
