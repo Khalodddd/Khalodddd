@@ -16,7 +16,7 @@ Hi, I'm **Khaled Soliman** — a passionate **Computer and Data Science graduate
 
 - 🧪 **Graduation Project Grade (Excellent)**  
   Built **DataCraft**, a gamified, AI-enhanced coding platform using **React**, **Firebase**, and **Hugging Face API** for students learning Python and SQL interactively.  
-  🔗 [View Project](https://github.com/Khalodddd/DataCraft/tree/main)
+  🔗 [View Graduation Project](https://github.com/Khalodddd/DataCraft/tree/main)
 
 ---
 
