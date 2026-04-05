@@ -55,4 +55,3 @@ Hi, I'm **Khaled Soliman** — a passionate **Computer and Data Science graduate
 
 - 📧 Email: khaledsoliman1599@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/khaled-samy-b033431a0/)  
-- 💻 [GitHub](https://github.com/Khalodddd)
