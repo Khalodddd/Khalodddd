@@ -1,12 +1,19 @@
 ## 👋 About Me
 
-Hi, I'm **Khaled Soliman** — a passionate **Computer and Data Science graduate** from Alexandria University Grade: (Very Good), currently pursuing my **Master’s in Informatics** at **Vilnius University** in Lithuania.
+Hi, I'm **Khaled Soliman** — a passionate **Computer and Data Science graduate** from Alexandria University Grade: (Very Good), currently pursuing my **Master’s in Informatics** at **Vilnius University** in Lithuania. 
 
-🚀 I specialize in building **AI-powered web platforms**, blending full-stack development with practical applications of machine learning, big data, and natural language processing.
+
+
+
+🚀 I specialize in building **AI-powered web platforms**, with practical applications of machine learning, big data, and natural language processing.
 
 ---
 
 ### 💻 What I Do
+- 💻 I use GitHub so I can contribute to Open Source projects you can check my forks and issues resolved for frameworks like Tensorflow and tools like VoiceBox.
+  
+- 📊 **Data Engineer Intern**  
+  Currently working with **Itransition Group** using Microsoft Fabric to build data pipelines.
 
 - 🧠 **AI & LLM Contributor**  
   Currently working with **Outlier AI**, enhancing AI models by reviewing and improving generated code and training data.
@@ -46,6 +53,6 @@ Hi, I'm **Khaled Soliman** — a passionate **Computer and Data Science graduate
 
 ### 🌐 Let's Connect
 
-- 📧 Email: thedataanalyst159@gmail.com  
+- 📧 Email: khaledsoliman1599@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/khaled-samy-b033431a0/)  
 - 💻 [GitHub](https://github.com/Khalodddd)
